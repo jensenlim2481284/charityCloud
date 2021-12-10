@@ -1,0 +1,6 @@
+{
+    "/css/prod/index.min.css": "/css/prod/index.min.css",
+    "/js/prod/index.min.js": "/js/prod/index.min.js",
+    "/js/prod/component/general.min.js": "/js/prod/component/general.min.js",
+    "/css/prod/component/general.min.css": "/css/prod/component/general.min.css"
+}
