@@ -18,7 +18,7 @@
 
     <div class='amount'>        
         <p>Your Balance </p>
-        <a href='/transaction'><small class='badge badge-primary beat-animation'> Total Donation <span> RM 50 </span> </small> </a>
+        <a href='/transaction'><small class='badge badge-primary beat-animation'> Total Donation <span> RM 33.80 </span> </small> </a>
         <h1> RM 5,000.00 </h1>
     </div>
 
